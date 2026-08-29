@@ -30,6 +30,36 @@
       "padding": 1,
       "maxWidth": 80
     },
+     {
+      "id": "Answer",
+      "trigger": "anan",
+      "name": "Answer",
+      "label": "answer",
+      "type": "inline",
+      "continuation": true,
+      "multiline": true,
+      "exitKey": "ctrl+Enter",
+      "description": "hihglight",
+      "enabled": true,
+      "triggerMode": "wordBoundary",
+      "languages": [
+        "*"
+      ],
+      "isBuiltin": true,
+      "style": {
+        "color": "#696f76",
+        "fontSize": 5,
+        "fontWeight": "800",
+        "fontStyle": "normal",
+        "textDecoration": "none",
+        "padding": "1px 5px",
+        "overviewRulerColor": "",
+        "overviewRulerLane": "right"
+      },
+      "alignment": "left",
+      "padding": 1,
+      "maxWidth": 80
+    },
     {
       "id": "builtin-important",
       "trigger": "iii",

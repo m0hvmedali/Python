@@ -9,7 +9,7 @@
 # [6] Tuple Can Have Different Data Types
 # [7] Operators Used in Strings and Lists Available In Tuples
 # -----------------------------
-
+# NOTE: when you type in your code d,c =5 you acctually type a tuple (d,c)=5
 # Tuple Syntax & Type Test
 
 myAwesomeTupleOne = ("Osama", "Ahmed")
@@ -93,9 +93,14 @@ print(f"The Position of Index Is: {b.index(7)}")
 # Tuple Destruct
 
 a = ("A", "B", 4, "C")
-
+bb = ('you are bitch')
 x, y, _, z = a
 
 print(x)
 print(y)
 print(z)
+for item in a:
+    print(f'open full tuple{a}')
+else :
+    print(f'you are {bb}')
+# what color in my eyes
