@@ -15,7 +15,7 @@ print(age)
 #                ↓      ↓
 #             mohamed   18
 # NOTE: unpacking use ro unpack elem in an iter obj and def single elem to var
-# NOTE: elem and var must be tje same number of values
+# NOTE: elem and var must be the same number of values
 # ══════════════════════════════════════════════════════════════════════════════
 # ╭──────────────────╮
 # │ [STAR UNPACKING] │
